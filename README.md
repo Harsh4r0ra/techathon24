@@ -106,4 +106,3 @@ Creating a decentralized web or Flutter app for patient data storage using Web3 
 
 ---
 
-Would you like further guidance on any specific aspect, such as the smart contract logic, Web3 library integration, or UI/UX design?
